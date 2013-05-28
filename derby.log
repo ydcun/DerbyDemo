@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Wed May 22 14:54:25 CST 2013:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.1.1 - (1458268): instance a816c00e-013e-cb04-6c95-00001f2125a0 
+on database directory E:\GitHub\Demo\DerbyDemo\bin\fri with class loader sun.misc.Launcher$AppClassLoader@f6a746 
+Loaded from file:/E:/GitHub/Demo/DerbyDemo/derby.jar
+java.vendor=Sun Microsystems Inc.
+java.runtime.version=1.6.0_13-b03
+user.dir=E:\GitHub\Demo\DerbyDemo
+os.name=Windows Vista
+os.arch=x86
+os.version=6.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
